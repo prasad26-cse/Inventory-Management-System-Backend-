@@ -292,6 +292,6 @@ def get_low_stock_alerts(company_id: int):
 
 ---
 
-**Prepared by:** [Your Name]
+**Prepared by:** Prasad Kabade
 
 This document is ready for review and live discussion. 
